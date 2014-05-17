@@ -9,7 +9,7 @@
 <html>
 	<body>
 		<div class="demo">
-			<div class="fit-iphone-frame">
+			<div class="fit-phone-frame">
 		        <iframe 
 		            class="simulater-iframe"
 		            src="<cfoutput>#url.page#</cfoutput>" 
