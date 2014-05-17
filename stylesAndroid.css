@@ -16,7 +16,7 @@ div.demo {
 div.demo iframe {
   max-width:none;
 }
-.fit-iphone-frame {
+.fit-phone-frame {
   left:44px;
   position:absolute;
   top:94px;
