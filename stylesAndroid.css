@@ -1,0 +1,29 @@
+div.demo {
+	background-image: url("Android.png");
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	height: 1000px;
+	width: 450px;
+	margin-left: 10px;
+	position: relative;
+}
+
+ div.demo iframe.simulater-iframe {
+  background-color:#F9F9F9;
+  border-color:black;
+}
+
+div.demo iframe {
+  max-width:none;
+}
+.fit-iphone-frame {
+  left:44px;
+  position:absolute;
+  top:94px;
+}
+
+.fit-iphone-frame {
+   
+    overflow: hidden;
+    
+}
