@@ -3,7 +3,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>iPhone</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
-  <link rel="stylesheet" type="text/css" href="stylesiPhone.css">
+  <link rel="stylesheet" type="text/css" href="stylesiPhone.css">		
 </head>
 <cfparam name="URL.page" default="" >
 <html>
@@ -27,10 +27,10 @@
 		    <div style="position: absolute; top: 810px; left: 0px; text-align: center; width:400px">
 		    	<div class="button-bar" style="width:280px;margin:0 auto;">
 					<div class="button-bar__item">
-						<button class="button-bar__button" ><a href="index.cfm?page=<cfoutput>#url.page#</cfoutput>">iPhone</a></button>
+						<a href="index.cfm?page=<cfoutput>#url.page#</cfoutput>"><button class="button-bar__button left-bar" >iPhone</button></a>
 					</div>
 					<div class="button-bar__item">
-						<button class="button-bar__button"><a href="indexAndroid.cfm?page=<cfoutput>#url.page#</cfoutput>">Android</a></button>
+						<a href="indexAndroid.cfm?page=<cfoutput>#url.page#</cfoutput>"><button class="button-bar__button">Android</button></a>
 					</div>
 				</div>    
 		    </div> 
