@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+/*http://components.onsenui.io/ button bar component*/
+>>>>>>> FETCH_HEAD
 
 .button-bar {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
@@ -134,6 +138,9 @@
 .button-bar__button:focus {
   outline: 0;
 }
+<<<<<<< HEAD
 .left-bar{
 	border-width: 0 1px 0 1px;
 }
+=======
+>>>>>>> FETCH_HEAD
